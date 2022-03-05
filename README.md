@@ -1,2 +1,3 @@
 # quantumultx-fly
-自用规则
+圈x自用规则
+网络收集
